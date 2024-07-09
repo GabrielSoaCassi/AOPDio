@@ -1,4 +1,4 @@
-package Conta;
+package conta;
 
 public class ContaCorrente extends Conta{
     public ContaCorrente(String tipoCliente) {
